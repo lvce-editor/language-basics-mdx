@@ -1,0 +1,12 @@
+{
+  "id": "builtin.language-basics-mdx",
+  "name": "Language Basics Mdx",
+  "description": "Provides syntax highlighting and bracket matching in Mdx files.",
+  "languages": [
+    {
+      "id": "mdx",
+      "extensions": [".md", ".mdx"],
+      "tokenize": "src/tokenizeMdx.js"
+    }
+  ]
+}

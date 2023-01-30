@@ -1,0 +1,8 @@
+Punctuation
+MarkdownLinkName
+Punctuation
+Punctuation
+MarkdownLinkUrl
+Punctuation
+None
+NewLine
