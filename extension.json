@@ -5,7 +5,7 @@
   "languages": [
     {
       "id": "mdx",
-      "extensions": [".md", ".mdx"],
+      "extensions": [".mdx"],
       "tokenize": "src/tokenizeMdx.js"
     }
   ]
