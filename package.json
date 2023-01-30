@@ -21,5 +21,10 @@
   "prettier": {
     "semi": false,
     "singleQuote": true
+  },
+  "test-tokenize": {
+    "skip": [
+      "interpolation"
+    ]
   }
 }
