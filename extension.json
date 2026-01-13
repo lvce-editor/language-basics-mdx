@@ -5,8 +5,11 @@
   "languages": [
     {
       "id": "mdx",
-      "extensions": [".mdx"],
+      "extensions": [
+        ".mdx"
+      ],
       "tokenize": "src/tokenizeMdx.js"
     }
-  ]
+  ],
+  "repository": "https://github.com/lvce-editor/language-basics-mdx"
 }
