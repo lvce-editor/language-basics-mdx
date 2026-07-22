@@ -175,7 +175,7 @@ export const tokenizeLine = (line, lineState) => {
             TokenType.MarkdownLinkUrl,
             linkUrl.length,
             TokenType.Punctuation,
-            1
+            1,
           )
           tokens.push(token, tokenLength)
           continue
